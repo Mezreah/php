@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    display: flex;
+    height: 70vh;
+    top: 0;
+    left: 0;
+    justify-content: center;
+    text-align: center;
+    padding: 5vh;
+}
+
+
+#main{
+    display: flex;
+    flex-wrap: wrap;
+    width: 50vh;
+    height: 20vh;
+    margin: 1vh;
+    padding: 1vh;
+    text-align: center;
+    justify-content: center;
+    background-color: rgba(194, 188, 188,0.2);
+    border-radius: 2vh;
+}
+
