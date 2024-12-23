@@ -1,6 +1,10 @@
 
+        <?php 
+            include "../View/header.php"
+        ?>
+        <link rel="stylesheet" href ="../css/main.css">
+
     <main>
-        <link rel="stylesheet" href ="./css/main.css">
                 <section id="main">
                     <article id="main_title">
                         <h1>Présentation<h1>
@@ -13,5 +17,7 @@
                     </article>
                 </section>
     </main>
+
+    <?php include "../View/footer.php"?>
 
 

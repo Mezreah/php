@@ -6,7 +6,7 @@
 footer{
     display: flex;
     flex-direction: row;
-    height: 25vh;
+    height: 30vh;
     background-color: rgb(188, 188, 188);
 }
 

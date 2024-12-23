@@ -14,7 +14,7 @@
 
 <header>
     <img src="#" alt="image">
-    <a href="#">Accueil</a>
-    <a href="#">A l'affiche</a>
-    <a href="#">Qui sommes-nous ?</a>
+    <a href="../View/accueil.php">Accueil</a>
+    <a href="../View/affiche.php">A l'affiche</a>
+    <a href="../View/us.php">Qui sommes-nous ?</a>
 </header>
